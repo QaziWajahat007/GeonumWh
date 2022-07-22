@@ -3,12 +3,12 @@
 
 ##
 
-<h4><p align="center">Cómo funciona?</p></h3>
+<h3><p align="center">Cómo funciona?</p></h3>
 <p align="center">La herramienta consulta una base de datos que brinda información sobre cada número. Cada hora, la base de datos es ampliada con más información.</p>
 
 ## 
 
-<h3>Funciona en:</h4>
+<h4>Funciona en:</h4>
 
 - Termux ✓
 
