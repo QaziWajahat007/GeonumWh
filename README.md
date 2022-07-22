@@ -10,7 +10,15 @@
 ## 
 
 <h3>Instalación</h3>
-`termux-setup-storage`
- 
-`pkg ins`
- 
+
+```
+git clone https://github.com/WhBeatZ/GeonumWh.git
+```
+
+```
+cd GeonumWh
+```
+
+```
+bash requirements.sh
+```
