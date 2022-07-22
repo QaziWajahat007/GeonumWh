@@ -8,7 +8,7 @@
 
 ## 
 
-<h3><p align="Funciona en:"></p></h3>
+<h3>Funciona en:</h3>
 
 - Termux ✓
 
