@@ -9,7 +9,6 @@
 ##
 
 <h3><p align="center">Uso recomandado</p></h3>
- 
 <p align="center"Usar sólo una vez, y si el código del páis no esta disponible, esperar 3 días mínimo para que el repote sea aprobado.</p>
 
 
