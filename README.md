@@ -14,7 +14,7 @@
 
 ##
 
-<h3>Instalación</h3>
+<h3>Instalación rápida:</h3>
 
 ```
 git clone https://github.com/WhBeatZ/GeonumWh.git
