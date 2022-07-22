@@ -7,7 +7,7 @@ Herramienta diseñada para obtener la geolocalización de un número telefónico
  
  # Instalación (Sólo Termux)
  
- `termux-setup-storage`
+ `termux-setup-storage
  
- `pkg ins`
+ pkg ins`
  
