@@ -1,5 +1,5 @@
 <h3><p align="center">GeonumWh</p></h3>
-Herramienta diseñada para obtener la geolocalización de un número telefónico para Termux. 
+<p align="center">Herramienta diseñada para obtener la geolocalización de un número telefónico para Termux.</p>
 
 # Como funciona?
 
