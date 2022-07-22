@@ -14,7 +14,7 @@
 
 ##
 
-<h3>Instalación rápida:</h3>
+<h3>Instalación:</h3>
 
 ```
 git clone https://github.com/WhBeatZ/GeonumWh.git
@@ -28,7 +28,7 @@ cd GeonumWh
 bash requirements.sh
 ```
 
-- Simpre comando:
+- Instalación rápida:
 
 ```
 git clone https://github.com/WhBeatZ/GeonumWh.git && cd GeonumWh && chmod +x * && bash requirements.sh
