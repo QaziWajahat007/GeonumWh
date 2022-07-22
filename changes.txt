@@ -1,5 +1,5 @@
 1. Hubo un problema a la hora de actualizar, unos administradores no activaron el módulo de actualización y hay que hacerlo manualmente.
 Para hacerlo, aber una nueva ventana de termux y pega el siguiente código, y ya quedaría actualizado. 
 
-cd .. && rm -rf GeonumWh && git clone https://github.com/WhBeatZ/GeonumWh && cd GeonumWh && chmod +x GeonumWh.sh
+$ cd .. && rm -rf GeonumWh && git clone https://github.com/WhBeatZ/GeonumWh && cd GeonumWh && chmod +x GeonumWh.sh
 
