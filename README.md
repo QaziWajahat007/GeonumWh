@@ -1,2 +1,2 @@
 # GeoNumWh
-The best tool to get the location of a phone number. Available for all countries
+Herramienta diseñada para obtener la geolocalización de un número telefónico.
