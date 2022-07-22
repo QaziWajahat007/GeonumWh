@@ -8,6 +8,14 @@
 
 ## 
 
+<h3><p align="Funciona en:"></p></h3>
+- Termux ✓
+- Kali Linux ✗
+- No root ✓
+- Root ✓
+
+##
+
 <h3>Instalación</h3>
 
 ```
@@ -22,6 +30,8 @@ cd GeonumWh
 bash requirements.sh
 ```
 
+##
+
 <h3><p align="center">Images</p></h3>
 <p align="center">
   <img src="https://github.com/WhBeatZ/GeonumWh/blob/main/files/image1.png" height="300px">
@@ -31,3 +41,5 @@ bash requirements.sh
  <p align="center">
   <img src="https://github.com/WhBeatZ/GeonumWh/blob/main/files/image2.png" height="400px">
  </p>
+ 
+ <h3><p align="center"></p></h3>
