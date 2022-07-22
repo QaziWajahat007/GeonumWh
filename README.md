@@ -22,3 +22,5 @@ cd GeonumWh
 ```
 bash requirements.sh
 ```
+
+<h3><p align="center">Fotos</p></h3>
