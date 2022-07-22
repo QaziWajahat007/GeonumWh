@@ -9,9 +9,13 @@
 ## 
 
 <h3><p align="Funciona en:"></p></h3>
+
 - Termux ✓
+
 - Kali Linux ✗
+
 - No root ✓
+
 - Root ✓
 
 ##
