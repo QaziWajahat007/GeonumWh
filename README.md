@@ -26,5 +26,8 @@ bash requirements.sh
 
 <p align="center">
   <img src="https://github.com/WhBeatZ/GeonumWh/blob/main/files/image1.png" height="300px">
+ </p>
+ 
+ <p align="center">
   <img src="https://github.com/WhBeatZ/GeonumWh/blob/main/files/image2.png" height="300px">
  </p>
