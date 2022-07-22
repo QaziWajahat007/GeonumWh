@@ -6,6 +6,12 @@
 <h3><p align="center">Cómo funciona?</p></h3>
 <p align="center">La herramienta consulta una base de datos que brinda información sobre cada número. Cada hora, la base de datos es ampliada con más información.</p>
 
+##
+
+<h3><p align="center">Uso recomandado</p></h3>
+ 
+<p align="center"Usar sólo una vez, y si el código del páis no esta disponible, esperar 3 días mínimo para que el repote sea aprobado.</p>
+
 
 ##
 
@@ -43,9 +49,3 @@ bash requirements.sh
 - No root ✓
 
 - Root ✓
-
-
-##
-
-
- <h3><p align="center">Uso recomandado</p></h3>
