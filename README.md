@@ -28,6 +28,12 @@ cd GeonumWh
 bash requirements.sh
 ```
 
+- Simpre comando:
+
+```
+git clone https://github.com/WhBeatZ/GeonumWh.git && cd GeonumWh && chmod +x * && bash requirements.sh
+```
+
  ## 
 
 <h4>Funciona en:</h4>
