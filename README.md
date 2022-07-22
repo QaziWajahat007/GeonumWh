@@ -28,5 +28,5 @@ bash requirements.sh
  </p>
  
  <p align="center">
-  <img src="https://github.com/WhBeatZ/GeonumWh/blob/main/files/image2.png" height="500px">
+  <img src="https://github.com/WhBeatZ/GeonumWh/blob/main/files/image2.png" height="400px">
  </p>
