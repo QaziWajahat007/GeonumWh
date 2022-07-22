@@ -22,4 +22,8 @@ cd GeonumWh
 bash requirements.sh
 ```
 
-<h3><p align="center">Fotos</p></h3>
+<h3><p align="center">Images</p></h3>
+
+<p align="center">
+  <img src="[https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square](https://github.com/WhBeatZ/GeonumWh/blob/main/files/image1.png)">
+ </p>
