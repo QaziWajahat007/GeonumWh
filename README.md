@@ -4,9 +4,6 @@
 ##
 
 <h4><p align="center">Cómo funciona?</p></h4>
-
-##
-
 <p align="center">La herramienta consulta una base de datos que brinda información sobre cada número. Cada hora, la base de datos es ampliada con más información.</p>
 
 ## 
