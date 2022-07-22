@@ -28,15 +28,6 @@ cd GeonumWh
 bash requirements.sh
 ```
 
-##
-
-<h3><p align="center">Images</p></h3>
-<p align="center">
-  <img src="https://github.com/WhBeatZ/GeonumWh/blob/main/files/image1.png" height="300px">
-   <img src="https://github.com/WhBeatZ/GeonumWh/blob/main/files/image2.png" height="300px">
- </p>
-
- 
  ## 
 
 <h4>Funciona en:</h4>
@@ -48,3 +39,12 @@ bash requirements.sh
 - No root ✓
 
 - Root ✓
+
+
+##
+
+<h3><p align="center">Images</p></h3>
+<p align="center">
+  <img src="https://github.com/WhBeatZ/GeonumWh/blob/main/files/image1.png" height="300px">
+   <img src="https://github.com/WhBeatZ/GeonumWh/blob/main/files/image2.png" height="300px">
+ </p>
