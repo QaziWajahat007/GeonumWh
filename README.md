@@ -6,17 +6,6 @@
 <h3><p align="center">Cómo funciona?</p></h3>
 <p align="center">La herramienta consulta una base de datos que brinda información sobre cada número. Cada hora, la base de datos es ampliada con más información.</p>
 
-## 
-
-<h4>Funciona en:</h4>
-
-- Termux ✓
-
-- Kali Linux ✗
-
-- No root ✓
-
-- Root ✓
 
 ##
 
@@ -46,4 +35,21 @@ bash requirements.sh
   <img src="https://github.com/WhBeatZ/GeonumWh/blob/main/files/image2.png" height="400px">
  </p>
  
- <h3><p align="center"></p></h3>
+ 
+ ## 
+
+<h4>Funciona en:</h4>
+
+- Termux ✓
+
+- Kali Linux ✗
+
+- No root ✓
+
+- Root ✓
+
+
+##
+
+
+ <h3><p align="center">Uso recomandado</p></h3>
