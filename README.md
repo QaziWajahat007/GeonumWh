@@ -45,6 +45,6 @@ bash requirements.sh
 
 <h3><p align="center">Images</p></h3>
 <p align="center">
-  <img src="https://github.com/WhBeatZ/GeonumWh/blob/main/files/image1.png" height="300px">
-   <img src="https://github.com/WhBeatZ/GeonumWh/blob/main/files/image2.png" height="300px">
+  <img src="https://github.com/WhBeatZ/GeonumWh/blob/main/files/image1.png" height="250px">
+   <img src="https://github.com/WhBeatZ/GeonumWh/blob/main/files/image2.png" height="250px">
  </p>
