@@ -2,3 +2,6 @@
 Para hacerlo, abre una nueva ventana de termux y pega el siguiente código, y ya quedaría actualizado. 
 
 $ cd .. && rm -rf GeonumWh && git clone https://github.com/WhBeatZ/GeonumWh && cd GeonumWh && chmod +x GeonumWh.sh && bash GeonumWh.sh
+
+
+2. Extended database
