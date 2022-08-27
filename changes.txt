@@ -1,7 +1,6 @@
-1. Si sale todo el rato lo de que hay que actualizar es porque  unos administradores no activaron el módulo de actualización y hay que hacerlo manualmente.
-Para hacerlo, abre una nueva ventana de termux y pega el siguiente código, y ya quedaría actualizado. 
+1. New interface
+2. New modes of scan
+3. Database Updated
 
+if it doesn't work:
 $ cd .. && rm -rf GeonumWh && git clone https://github.com/WhBeatZ/GeonumWh && cd GeonumWh && chmod +x GeonumWh.sh && bash GeonumWh.sh
-
-
-2. Extended database
