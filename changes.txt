@@ -1,6 +1,7 @@
 1. New interface
 2. New modes of scan
 3. Database Updated
+4. Fixed bugs
 
 if it doesn't work:
 $ cd .. && rm -rf GeonumWh && git clone https://github.com/WhBeatZ/GeonumWh && cd GeonumWh && chmod +x GeonumWh.sh && bash GeonumWh.sh
